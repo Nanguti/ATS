@@ -1,0 +1,5 @@
+The project automatically selects applicants to shortlist.
+-input -> CV
+Output
+-shortlist qualified candidate
+-sends invitation email
